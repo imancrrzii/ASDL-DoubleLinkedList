@@ -1,4 +1,5 @@
 # ASDL-DoubleLinkedList
+Kelompok 2
 - Agustiawan (09021182126013)
 - Iman Carrazi Syamsidi (09021182126009)
 - Lidia Nurhaliza (09021182126008)
