@@ -434,7 +434,7 @@ public class TugasDoubleLinkedList {
 										}
 										System.out.print("MASUKKAN NODE: ");
 										index = inputUser.nextInt();
-										if (index < 1 || index > list.getsize())
+										if (index < 0 || index > list.getsize())
 											System.out.println("NODE KE-" + index + " TIDAK DITEMUKAN");
 										System.out.print("MASUKKAN DATA: ");
 										userData = inputUser.nextInt();
